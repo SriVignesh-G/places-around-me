@@ -150,4 +150,4 @@ Include your output screenshot here
 ![imagemaps output](./Placesaroundmeoutput.jpg)
 
 ## Result:
-Write your result
+ the program is executed successfully.
