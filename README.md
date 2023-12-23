@@ -5,13 +5,24 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Clone repository from the github.
+Fork the repository to your github and Clone repository from the github.
 
 ### Step 2:
-Add html files in static folder. Run the python file
+After set up the djnago environment.create a folder named static.
+
+### Step 3:
+create another folder named html.Add maps .html in the html folder.
+
+### Step 4:
+After taking necessary photos.Upload in imagemaps.org plot the coordinates.
+
+### Step 5:
+Create necessary html files in the html folder. 
+ 
+### Step 6:
+Run the webpages in the url. 
 
 ## Code:
-Include your HTML code here
 
 ### map.html:
 ```html
@@ -145,7 +156,6 @@ Include your HTML code here
     </p>
 ```
 ## Output:
-Include your output screenshot here
 
 ![imagemaps output](./Placesaroundmeoutput.jpg)
 
